@@ -1,10 +1,12 @@
 # 耘智 — 基于 OpenHarmony 的智慧农业控制系统
 
 <p align="center">
-  <img src="entry/src/main/resources/base/media/app_icon.png" width="120" alt="耘智 App 图标" />
+  <img src="image/app_icon.png" width="120" alt="耘智 App 图标" />
 </p>
 
-## 项目简介
+## 项目简介 
+
+~~*我现在也不知道能不能上传*~~
 
 **耘智** 是一款基于 OpenHarmony 的智慧农业远程控制系统，由智能主板（STM32 + ESP32）、鸿蒙网关（BearPi-HM\_Nano）、OpenHarmony APP 及华为云 IoTDA 四大模块构成。用户通过手机 APP 即可远程监测农田环境、管控农业设备，实现灌溉、补光、通风、害虫防治等全流程智能化管理。系统搭载 豆包大模型，提供 AI 农业专家问答、拍照识病、植物百科等智能服务，搭配太阳能供电模块，践行绿色农业发展模式。
 
